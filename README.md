@@ -23,8 +23,8 @@ ExpressJS <br> dotenv <br> MySql <br> Sequelize
 
 
 ## Usage
-Video Demonstration:
-Video Link
+Video Demonstration: <br>
+<a href="https://github.com/SteveeZee03/YourConvenientCommerce/tree/main/Assets/Demo">Assets\Demo</a>
 
 ## License
 This project is licensed under the MIT license.
