@@ -17,14 +17,14 @@ YourConvinientCommerce is a go to spot for transactions online!
 * [Questions](#questions)
 
 ## Installation
-Run the following commands below to install the required dependencies.  
-
+Run the following commands below to install the required dependencies. <br>
+npm i <br>
 ExpressJS <br> dotenv <br> MySql <br> Sequelize 
 
 
 ## Usage
 Video Demonstration:
-vid link
+Video Link
 
 ## License
 This project is licensed under the MIT license.

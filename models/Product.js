@@ -1,4 +1,4 @@
-const {Model, DataTypes } = require('sequelize');
+const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection');
 
@@ -14,11 +14,11 @@ Product.init(
             autoIncremeent: true
         },
         product_name: {
-            type:DataTypes.DECIMAL,
+            type:DataTypes.STRING,
             allowNull: false
         },
         price: {
-            type: DataType.DECIMAL,
+            type: DataTypes.DECIMAL,
             allowNull: false,
             validate: {
                 isDecimal: true
